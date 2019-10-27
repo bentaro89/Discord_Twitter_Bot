@@ -15,6 +15,7 @@ Install Discord Bot:
 > pip install -U discord.py
 
 Run the script
+
 Download Twitter_Discord_Bot.py
 > python Twitter_Discord_Bot.py
 
