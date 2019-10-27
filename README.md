@@ -17,6 +17,7 @@ Install Discord Bot:
 Run the script
 
 Download Twitter_Discord_Bot.py
+> cd Downloads
 > python Twitter_Discord_Bot.py
 
 The script should confirm that the bot has joined the server.
