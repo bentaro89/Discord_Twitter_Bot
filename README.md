@@ -26,11 +26,13 @@ The script should confirm that the bot has joined the server.
 
 
 Login to Discord on either a personal account or this one
+
 user: bot.dartmouth@gmail.com
 
 pass: keggythekeg
 
 In the server, directly message the bot what you want to tweet.
+
 Before tweeting, precede with “tweet:"
 
 i.e.     "     tweet: I'm tweeting from discord!     "
