@@ -2,11 +2,11 @@ import tweepy
 import discord
 
 # Tokens for access to APIs
-consumer_key = '9wqR8beE2P10iCOhg0e9aZ0s2'
-consumer_secret = 'w1tHQd511yYQcHPuluOMlveTNl4kE8i8KC4pB33oEzQqkkhkUI'
-access_token = '1184124648084180992-NhVqKkKPMpANaT7uHP7ySR4p0K3Tnz'
-access_secret = 'gJN3pV48RWrS4oR4zp6y47s0nwmJ7xgsBDXL06EMcpdm3'
-discord_token = 'NjM3MTg2NDkwMTQwNDU5MDA4.XbNCmQ.5iup6d-Ex07cg8Z-mrJYrUrXl14'
+consumer_key = 'EjoZhoTuAeltdj62d019jaaI7'
+consumer_secret = 'tt44EZ3FhtsAEl1IhfDlJNOB8dPvgGzR7Z34GdNrVb03JGeCoL'
+access_token = '1184124648084180992-gzd0hdQaKwuHwLkJ7RlZucTR16lKym'
+access_secret = 'IY4WAwFWojPSm8fxsGcte9tl90S8qMy39fHn8QVTgVjyc'
+discord_token = 'NjM3MTg2NDkwMTQwNDU5MDA4.XbZnTg.HTWCDEMI4SWxZQqaWJl9ZXd_bLs'
 
 #Function to get access to Twitter API
 def OAuth():
