@@ -6,11 +6,7 @@ consumer_key = 'EjoZhoTuAeltdj62d019jaaI7'
 consumer_secret = 'tt44EZ3FhtsAEl1IhfDlJNOB8dPvgGzR7Z34GdNrVb03JGeCoL'
 access_token = '1184124648084180992-gzd0hdQaKwuHwLkJ7RlZucTR16lKym'
 access_secret = 'IY4WAwFWojPSm8fxsGcte9tl90S8qMy39fHn8QVTgVjyc'
-#copy and paste the discord token in between the quotation marks below
-# There should be no spaces between the quotation marks and token
-
-# NjM3MTg2NDkwMTQwNDU5MDA4.Xbu98A.D_k7V5rtq82E20kWA_qhTeq4JMs
-discord_token = ""
+discord_token = "NjM3MTg2NDkwMTQwNDU5MDA4.Xbu_JA.kYHExrRbTm4Xfchq48AQz0EOr2"
 
 #Function to get access to Twitter API
 def OAuth():
