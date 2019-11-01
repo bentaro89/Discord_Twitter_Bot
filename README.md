@@ -37,7 +37,7 @@ Before tweeting, precede with “tweet:"
 
 i.e.     "     tweet: I'm tweeting from discord!     "
 
-Discord Link: discord.gg/GJRNrbQ
+Discord Link: https://discord.gg/veugMAE
 
 Twitter user link: https://twitter.com/Bot_Dartmouth
 
