@@ -6,7 +6,7 @@ consumer_key = 'EjoZhoTuAeltdj62d019jaaI7'
 consumer_secret = 'tt44EZ3FhtsAEl1IhfDlJNOB8dPvgGzR7Z34GdNrVb03JGeCoL'
 access_token = '1184124648084180992-gzd0hdQaKwuHwLkJ7RlZucTR16lKym'
 access_secret = 'IY4WAwFWojPSm8fxsGcte9tl90S8qMy39fHn8QVTgVjyc'
-discord_token = 'NjM3MTg2NDkwMTQwNDU5MDA4.XbZnTg.HTWCDEMI4SWxZQqaWJl9ZXd_bLs'
+discord_token = 'NjM3MTg2NDkwMTQwNDU5MDA4.Xbu9gg.8mPgWoFyddd0MKHRkeFEraOAZBY'
 
 #Function to get access to Twitter API
 def OAuth():
