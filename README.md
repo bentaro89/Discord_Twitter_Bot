@@ -41,4 +41,4 @@ Discord Link: https://discord.gg/veugMAE
 
 Twitter user link: https://twitter.com/Bot_Dartmouth
 
-Total programming time = 7-8 hours
+Total programming time = 8-9 hours
