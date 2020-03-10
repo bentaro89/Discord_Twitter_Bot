@@ -2,10 +2,10 @@ import tweepy
 import discord
 
 # Tokens for access to APIs
-consumer_key = 'EjoZhoTuAeltdj62d019jaaI7'
-consumer_secret = 'tt44EZ3FhtsAEl1IhfDlJNOB8dPvgGzR7Z34GdNrVb03JGeCoL'
-access_token = '1184124648084180992-gzd0hdQaKwuHwLkJ7RlZucTR16lKym'
-access_secret = 'IY4WAwFWojPSm8fxsGcte9tl90S8qMy39fHn8QVTgVjyc'
+consumer_key = [token]
+consumer_secret = [token]
+access_token = [token]
+access_secret = [token]
 
 discord_token = [token]
 
